@@ -1,0 +1,10 @@
+{
+  "languages": ["python", "java", "javascript", "typescript", "c++", "c", "c#", "sql", "html", "css", "go", "kotlin", "swift", "r", "php"],
+  "frontend": ["react", "react.js", "redux", "vue", "angular", "next.js", "tailwind", "bootstrap", "jquery"],
+  "backend": ["flask", "django", "node.js", "express", "spring boot", "fastapi", "rest api", "graphql"],
+  "databases": ["mysql", "postgresql", "mongodb", "sqlite", "oracle", "redis", "firebase"],
+  "cloud_devops": ["aws", "azure", "gcp", "docker", "kubernetes", "git", "github", "ci/cd", "jenkins", "linux"],
+  "data_ml": ["pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "machine learning", "deep learning", "nlp", "opencv", "data analysis"],
+  "cs_fundamentals": ["data structures", "algorithms", "oop", "object oriented programming", "dbms", "operating systems", "computer networks", "system design"],
+  "tools": ["postman", "vs code", "jira", "figma", "excel", "power bi", "tableau"]
+}
