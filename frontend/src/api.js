@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://127.0.0.1:5000";
+const API_BASE_URL = "https://ai-resume-analyzer-uxh0.onrender.com";
 
 export const analyzeResume = async (file, jobDescription) => {
   const formData = new FormData();
